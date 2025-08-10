@@ -1,4 +1,4 @@
-# Digital Clock ⏰
+# Digital Clock 
 
 A simple and beautiful digital clock with theme switcher and live weather.
 
